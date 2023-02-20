@@ -1,0 +1,22 @@
+.seccion{
+    width: 350px;
+    background-color:indigo;
+    padding : 1rem;
+    margin: 1rem;
+
+}
+.parrafo{
+    width: 315px;
+    background-color:cornflowerblue;
+    padding: 1rem;
+}
+
+.parrafo.dragging{
+    opacity: 0,5;
+}
+
+.paper{
+    width: 300px;
+    background-color: none;
+    padding: 1rem;
+}
